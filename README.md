@@ -1,7 +1,7 @@
 # AutomatedSecurityImaging
  
 
-This repository is an excerpt from the Automated Security Imaging project where we implemented Mask-RCNN with attention mechanism to detect prohibited objects during security scanning by using the GDXray and OPIXray datasets. The study was aimed to automate the security imaging.
+This repository is an excerpt from the original Automated Security Imaging project where we implemented Mask-RCNN with attention mechanism to detect prohibited objects during security scanning by using the GDXray and OPIXray datasets. The study was aimed to automate the security imaging.
 
 Our model was 92.34\% accurate with a precision value of 0.87.
 
